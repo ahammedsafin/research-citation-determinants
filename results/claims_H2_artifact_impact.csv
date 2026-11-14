@@ -1,0 +1,3 @@
+Regime,Test_n,Prevalence,F1,ROC_AUC,PR_AUC
+With artifact rows (as-published setup),19198,0.0419,0.2608,0.8249,0.2195
+Artifact rows excluded,14499,0.1008,0.4405,0.8289,0.409

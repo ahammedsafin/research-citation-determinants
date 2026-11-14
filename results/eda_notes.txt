@@ -1,0 +1,10 @@
+EDA KEY NUMBERS
+Cohort size: 99,989
+Years: 2005-2014
+Median citations: 18.0 | Mean: 37.5 | Max: 20580
+Exact-50 artifact share: 30.4%
+Highly-cited prevalence (top 10%/year): 8.5%
+Venue missing: 18.6% | References missing: 11.7% | Abstract missing: 16.0%
+Median team size: 3.0 | Median reference count: 6.0
+Spearman(ref_count, log cites): 0.299
+Spearman(author_count, log cites): 0.075
