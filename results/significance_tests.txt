@@ -1,0 +1,2 @@
+Delta ROC-AUC full vs biblio: 0.0081 CI [0.0001,0.0158]
+McNemar b=504 c=521
